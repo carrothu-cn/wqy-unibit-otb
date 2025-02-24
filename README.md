@@ -1,2 +1,2 @@
 # wqy-unibit-otb
-Chinese bitmap font for console
+The otb version of Wen Quan Yi Unibit font.
